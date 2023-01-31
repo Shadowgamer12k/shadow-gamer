@@ -1,0 +1,106 @@
+    
+    @font-face{
+  font-family: font1;
+  src: url(/storage/emulated/0/zFlouderrr/fonts/Herborn.ttf);
+}
+
+@font-face{
+  font-family: font2;
+  src: url(/storage/emulated/0/zFlouderrr/fonts/AraESNawar-Regular.otf);
+}
+
+
+
+
+
+
+.font2{
+    font-family: font2;
+    font-size: 25px;
+}
+.font1{
+    font-family: font1;
+}
+
+.yt{
+ color: red;
+}
+.ds{
+    color: #0069FF;
+}
+.int{
+    color: #FF6F00;
+}
+.rr{
+    font-size: 15px;
+    
+}
+.add1 {
+  padding: 5px 0px;
+  width: 90%;
+  margin: 10px;
+}
+.add2 {
+  padding: 5px 0px;
+  width: 90%;
+    margin: 10px;
+}
+.add3 {
+  padding: 5px 0px;
+  width: 90%;
+  margin: 10px;
+}
+.add4 {
+  padding: 5px 0px;
+  width: 90%;
+  margin: 10px;
+}
+.add5 {
+  padding: 5px 0px;
+  width: 90%;
+  margin: 10px;
+}
+.down{
+    height: 35px;
+ color: #00FFF2;
+ height: 30px;
+ transform: translate(-35px , 1px);
+}
+.down1{
+ height: 35px;
+ color: #00FFF2;
+ height: 30px;
+ transform: translate(-35px , 1px);
+ 
+
+    
+}
+.ho{
+    margin: 5px;
+    padding: 5px;
+
+}
+.toto{
+     transform: translate(-100px , 1px);
+}
+.r{
+      transform: translate(-100px , 10px);
+      margin: 1px 1px;
+}
+.do{
+  height: 35px;
+ color: #00FFF2;
+ height: 30px;
+ transform: translate(30px , 1px);
+      
+}
+
+/* START COD*/
+.it{
+    background-color: #000000;
+}
+
+.r1{
+      transform: translate(-100px , 50px);
+       padding: 1px 1px;
+}
